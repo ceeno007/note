@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954078207422",
+    "project_id": "mynotes-flutter-projectfrt",
+    "storage_bucket": "mynotes-flutter-projectfrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954078207422:android:d17248af8130c80d9f6def",
+        "android_client_info": {
+          "package_name": "com.example.learn_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954078207422-qljg89pmoaeuem8e7suau5ba6kd8skg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsS3ZTkj4vo3OXLagieHwJDA8nwxNbM3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954078207422-qljg89pmoaeuem8e7suau5ba6kd8skg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
